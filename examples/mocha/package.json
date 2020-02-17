@@ -1,0 +1,6 @@
+{
+  "name": "mocha-example",
+  "scripts": {
+    "mocha": "wdio ./wdio.conf.js"
+  }
+}
